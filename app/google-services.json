@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1070750450180",
+    "firebase_url": "https://loginapp-efe2b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "loginapp-efe2b",
+    "storage_bucket": "loginapp-efe2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070750450180:android:e634f8ee7516235f8beb51",
+        "android_client_info": {
+          "package_name": "com.yunusbalikci.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1O1lWJNJvjtDWAqoaQ03uZZcM3ts2LW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
