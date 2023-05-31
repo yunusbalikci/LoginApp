@@ -43,13 +43,16 @@ class MainActivity : AppCompatActivity() {
 
         }
     }
-    /*override fun onStart() {
+
+    override fun onStart() {
         super.onStart()
 
         if(firebaseAuth.currentUser != null){
-            val intent = Intent(this, DetailActivity::class.java)
+            val intent = Intent(this@MainActivity,DetailActivity::class.java)
             startActivity(intent)
+            finish()
         }
+
     }
-*/
+
 }
